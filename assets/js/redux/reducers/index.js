@@ -1,5 +1,5 @@
 import { combineReducers } from "redux";
-const base = (state = {}, action) => {
+export const base = (state = {}, action) => {
   switch (action.type) {
     default:
       return state;
