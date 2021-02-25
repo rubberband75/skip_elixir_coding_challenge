@@ -1,6 +1,6 @@
 # Pop
 
-This is a coding exercise to test your understanding of two parts of our current tech stack. These parts are React and Elixir/Phoenix. In the Javascript code, React, ReactRedux, ReactRouter have already been included. For CSS, we use [`TailwindCSS`](https://tailwindcss.com/), so we'd appreciate it if you attempted to use [`TailwindCSS`](https://tailwindcss.com/) for your styling. You do not have to Redux or ReactRouter, but can if you want. For server code only Phoenix and Phoenix.HTML have been added.
+This is a coding exercise to test your understanding of two parts of our current tech stack. These parts are React and Elixir/Phoenix. In the Javascript code, React, ReactRedux, ReactRouter have already been included. For CSS, we use [`TailwindCSS`](https://tailwindcss.com/), so we'd appreciate it if you attempted to use [`TailwindCSS`](https://tailwindcss.com/) for your styling. You do not have to use Redux or ReactRouter, but can if you want. For server code only Phoenix and Phoenix.HTML have been added.
 
 ## To get the Phoenix server started
 
